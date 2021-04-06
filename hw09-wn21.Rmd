@@ -1,0 +1,64 @@
+---
+title: "STATS 250: Homework 9"
+author: "Homework Team"
+date: "April 2, 2021"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    toc_collapsed: true
+    theme: lumen
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+source("plot_t.R")
+```
+
+### Question 1
+The data can be found in `votingtimes.csv`, and you will need to load it into RStudio. The instructions for this question can be found on course.work.
+
+```{r Q1a, error = T}
+# Replace this comment with your code or add it to the next line
+
+```
+
+```{r Q1b, error = T}
+# Replace this comment with your code or add it to the next line
+
+```
+
+```{r Q1c, error = T}
+# Replace this comment with your code or add it to the next line
+
+```
+
+### Question 2
+The data can be found in `statssalaries.csv`, and you will need to load it into RStudio. The instructions for this question can be found on course.work.
+
+```{r Q2b, error = T}
+# Replace this comment with your code or add it to the next line
+
+```
+
+### Extra spot for work
+Here are a few extra chunks if you need it to work on hw09.
+
+```{r hw09work1, error = T}
+# Replace this comment with your code or add it to the next line
+
+```
+
+```{r hw09work2, error = T}
+# Replace this comment with your code or add it to the next line
+
+```
+
+```{r hw09work3, error = T}
+# Replace this comment with your code or add it to the next line
+
+```
+
+## Wrapping Up
+
+Make sure that you submit the appropriate output from this RStudio Project to the corresponding questions on course.work.
